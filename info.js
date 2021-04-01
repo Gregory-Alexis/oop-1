@@ -88,7 +88,7 @@ class Human {
 
 const alice = new Human('Alice', 'Liddell', 27, ['Javascript', 'C++', 'Python', 'Solidity', 'HTML', 'CSS'])
 const bob = new Human('Bob', 'Lemon', 30, ['Javascript', 'C#', 'Ruby', 'Php', 'GO', 'Julia'])
-const charlie = new Human('Charlie', 'Charlot', 8, ['Casse-pied'])
+const charlie = new Human('Charlie', 'Charlot', 8, ['Casse-pieds'])
 
 console.log(alice)
 console.log(bob)
